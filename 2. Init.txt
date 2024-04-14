@@ -1,0 +1,8 @@
+GitHub Commands
+
+1. Create project in  local repo 
+        git init myproject
+
+2. Check the status
+        git status
+
