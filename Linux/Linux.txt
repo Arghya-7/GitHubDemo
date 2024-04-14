@@ -1,0 +1,2 @@
+remove whole directory along with including files
+    rm -rf folderName
