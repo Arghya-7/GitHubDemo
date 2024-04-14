@@ -1,8 +1,10 @@
 GitHub Commands
 
-1. Create project in  local repo 
-        git init myproject
+        1. Initialize project in  local repo 
+                git init myproject
 
-2. Check the status
-        git status
+        2. In case project already exist (to add .git folder)
+                git init
 
+        3. Check the status
+                git status
